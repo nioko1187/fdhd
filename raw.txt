@@ -1,0 +1,2 @@
+Ceci est un fichier raw.
+Il contient des données textuelles simples.
